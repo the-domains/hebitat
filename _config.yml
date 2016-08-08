@@ -1,4 +1,3 @@
-layout_spectrum: 0.3077459817286581
 typography_spectrum: 0.6610979635734111
 color:
   brandStrength: 0.48392114019952714
@@ -11,5 +10,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.3077459817286581
 name: Hebitat
 title: Websites prácticamente perfectos
+description: 'Creamos websites prácticos, enfocados en obtener los resultados que buscas. '
