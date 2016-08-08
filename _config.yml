@@ -1,0 +1,14 @@
+layout_spectrum: 0.3077459817286581
+typography_spectrum: 0.6610979635734111
+color:
+  brandStrength: 0.48392114019952714
+  lightness: 0.20965126203373075
+  saturation: 0.9514054218307137
+  rhythmicContrast: 0.8133201429154724
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Hebitat
